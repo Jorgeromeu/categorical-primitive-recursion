@@ -1,1 +1,1 @@
-# category
+This repository contains an implementation of several examples of primitive-iteration and primitive-coiteration from the thesis Categorical Programming with Inducitve and Coinductive Types, by Varmo Vene.
